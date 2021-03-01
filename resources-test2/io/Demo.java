@@ -9,6 +9,8 @@ import java.io.InputStreamReader;
 import java.io.FileReader;
 import java.nio.charset.Charset;
 
+// javac io/*.java
+// java io.Demo
 class Demo {
     public static void main(String[] args) {
         URL url = Demo.class.getResource("resource.txt");

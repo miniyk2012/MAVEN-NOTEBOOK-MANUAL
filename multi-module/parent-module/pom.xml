@@ -8,6 +8,14 @@
     <artifactId>parent-module</artifactId>
     <packaging>pom</packaging>
     <version>1.0</version>
+    <build>
+<!--        <resources>-->
+<!--            <resource>-->
+<!--                <directory>src/main/resources</directory>-->
+<!--                <targetPath>x</targetPath>-->
+<!--            </resource>-->
+<!--        </resources>-->
+    </build>
     <modules>
         <module>child-module-A</module>
         <module>child-module-B</module>
