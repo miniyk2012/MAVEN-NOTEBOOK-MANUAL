@@ -9,7 +9,8 @@ import java.io.InputStreamReader;
 import java.io.FileReader;
 import java.nio.charset.Charset;
 
-// java -cp resources/:conf/:. io.Demo
+// javac io/*.java
+// java io.Demo2 
 class Demo2 {
     public static void main(String[] args) {
         System.out.println(Demo2.class.getResource(""));
