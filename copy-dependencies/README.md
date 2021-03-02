@@ -1,0 +1,1 @@
+我是给maven-assembly-plugin打包用的哟
